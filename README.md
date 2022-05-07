@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a B.S. degree in Computer Science and Business @ Lehigh University.
+- 🌱 I’m currently learning about Database Systems, Algorithms, and Applications.
+- 👯 I’m looking to collaborate on making CSBA awesome.
+- 💬 Ask me about the Lehigh CSB program.
+- 📫 How to reach me: On LinkedIn @adrianmross
