@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin Badge](https://img.shields.io/badge/-adrianmross-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianmross/)](https://www.linkedin.com/in/adrianmross/)
+[![Instagram Badge](https://img.shields.io/badge/-@adrian_m_ross-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://www.instagram.com/adrian_m_ross/)](https://www.instagram.com/adrian_m_ross/)
+[![Twitter Badge](https://img.shields.io/badge/-@adrianmross-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adrianmross)](https://twitter.com/adrianmross)
+
+---
+
 - 🔭 I’m currently working on a B.S. degree in Computer Science and Business @ Lehigh University.
 - 🌱 I’m currently learning about Database Systems, Algorithms, and Applications
 - 👯 I’m looking to collaborate on making CSBA awesome.
@@ -24,6 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Hobbies : ☕ Making Coffee, ⛷️ Skiing, 🎹 Piano
 
 <br />
+
 
 <a href="https://github.com/adrianmross/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=adrianmross&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
