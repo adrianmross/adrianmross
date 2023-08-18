@@ -31,11 +31,3 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@adrianmross-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adrianmross)](https://twitter.com/adrianmross)
 
 <br />
-
-
-<a href="https://github.com/adrianmross/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adrianmross&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</a>
-<a href="https://github.com/adrianmross">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmross&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=10px" />
-</a>
