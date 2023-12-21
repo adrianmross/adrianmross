@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a B.S. degree in Computer Science and Business @ Lehigh University.
-- 🌱 I’m currently learning about Decentralized Identities, Hierarchical Consensus for FOREX Blockchain Systems, and Operating Systems.
+- 🌱 I’m currently learning about Decentralized Identifiers, Hierarchical Consensus for Blockchain Systems, and Scalable Systems.
 - 💬 Ask me about the Lehigh CSB program or blockchain opportunities at Lehigh.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrianmross/) @adrianmross
 - 🌎 Where I've lived: 🇺🇸 (OH, NY, NJ, KS, PA), USA; 🇨🇿 Praha, Czech Republic; 🇨🇭 Basel, Switzerland;
