@@ -14,7 +14,7 @@
   <ul>
     <li>🔭 I'm currently working on 🪪 self-sovereign identity and 🌎 global consensus models for a blockchain lab.</li>
     <li>🌱 I’m currently learning about different 💽 database designs, 0️⃣ ZKPs, and 🕵️ distribured agent architectures.</li>
-    <li>💬 Ask me about the Lehigh CSB program or blockchain opportunities at Lehigh.</li>
+    <li>💬 Ask me about the CSB program or blockchain opportunities at Lehigh as an SSS Research Group & CSB'24 Alumnus</li>
     <li>📫 How to reach me: <a href="https://www.linkedin.com/in/adrianmross/">LinkedIn</a> @adrianmross</li>
     <li>⚡ Fun fact: I've lived in a few places: 🇺🇸 (OH, NY, NJ, KS, PA), USA; 🇨🇿 Praha, Czech Republic; 🇨🇭 Basel, Switzerland;</li>
     <li>🎿 My hobbies are : ☕ Making Coffee, 🧑‍🍳 Cooking, 🧑‍🎨 Digital Animation, ⛷️ Skiing, 🎹 Piano</li>
