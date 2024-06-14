@@ -26,6 +26,6 @@ jobs:
         run: |-
           git add .
           git diff
-          git diff --quiet || git commit -m "docs: auto-update README.md" -a
+          git commit -m "docs: auto-update README.md" -a || exit 0
           git remote set-url origin https://adrianmross:${GH_TOKEN}@github.com/adrianmross/adrianmross.git
           git push
