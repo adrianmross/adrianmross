@@ -21,10 +21,10 @@ jobs:
       - name: Rebuild README.md File
         run: npm run start
       - name: Commit and Push if Changed
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |-
           git add .
-          git diff
-          git config --global user.email "amr424@lehigh.edu"
-          git config --global user.name "adrianmross"
-          git commit -m "docs: auto-update README.md" -a || exit 0
+          git diff --quiet || git commit -m "docs: auto-update README.md"
+          git remote set-url origin https://adrianmross:${GH_TOKEN}@github.com/adrianmross/adrianmross.git
           git push
