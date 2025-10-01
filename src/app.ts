@@ -20,10 +20,6 @@ const githubUrl = `${baseUrl}github.com/${githubUsername}`;
 
 async function generateMarkdown() {
 
-  const githubBadge = `[![GitHub Badge](https://img.shields.io/badge/-@adrianmross-%2312100E?style=flat-square&logo=GitHub&logoColor=white&link=${githubUrl})](${githubUrl})`;
-  const linkedinBadge = `[![Linkedin Badge](https://img.shields.io/badge/-@adrianmross-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianmross/)](https://www.linkedin.com/in/adrianmross/)`;
-  const instaBadge = `[![Instagram Badge](https://img.shields.io/badge/-@adrian_m_ross-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://www.instagram.com/adrian_m_ross/)](https://www.instagram.com/adrian_m_ross/)`;
-  const twitterBadge = `[![Twitter Badge](https://img.shields.io/badge/-@adrianmross-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adrianmross)](https://twitter.com/adrianmross)`;
   const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=flat-square)`;
 
   const githubStatsCardDark = `[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&rank_icon=github&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`;
@@ -47,14 +43,12 @@ async function generateMarkdown() {
   -->
 
   <ul>
-    <li>🔭 I'm currently working on 🪪 decentralized identity and 🌎 global consensus models for a blockchain team.</li>
+    <li>🔭 I'm currently working on 🪪 decentralized identity.</li>
     <li>🌱 I’m currently learning about different 💽 database designs, 0️⃣ ZKPs, and 🕵️ distribured architectures.</li>
-    <li>📫 How to reach me: <a href="https://www.linkedin.com/in/adrianmross/">LinkedIn</a> @adrianmross</li>
     <li>🎿 My hobbies are : ☕ Making Coffee, 🧑‍🍳 Cooking, ⛷️ Skiing</li>
   </ul>\n
   ---\n
   <div align="center">\n
-  ${githubBadge} ${linkedinBadge} ${instaBadge} ${twitterBadge} \n
 
   ${githubStatsCardDark}\n
   ${githubStatsCardLight}\n
